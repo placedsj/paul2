@@ -6,19 +6,19 @@ const features: FeatureItem[] = [
   {
     id: 'licensed',
     title: 'Licensed & Insured',
-    description: 'Licensed & Insured is a promised professional and knows.',
+    description: 'Fully licensed in New Brunswick with comprehensive liability insurance for your complete peace of mind.',
     icon: ShieldCheck,
   },
   {
     id: 'warranty',
     title: '10-Year Warranty',
-    description: 'Pawofa mystons need to to-10 year a warranty.',
+    description: 'We stand behind our craftsmanship. Every full installation comes with our exclusive 10-year labor warranty.',
     icon: Clock,
   },
   {
     id: 'rated',
     title: 'Top-Rated Pros',
-    description: 'Top-rated pros providing business audities.',
+    description: 'Voted #1 in Southern NB. Our team brings over 35 years of hands-on experience to every project.',
     icon: Star,
   },
 ];

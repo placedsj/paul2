@@ -32,12 +32,11 @@ export const Navbar: React.FC = () => {
       <div className="container mx-auto px-6 flex justify-between items-center">
         {/* Logo */}
         <a href="#" className="flex items-center gap-2 group">
-            <div className="w-10 h-10 bg-accent-orange rounded-tr-xl rounded-bl-xl flex items-center justify-center group-hover:scale-110 transition-transform duration-300">
-                <span className="font-display font-bold text-white text-xl">P</span>
-            </div>
-            <div className="font-display font-bold text-2xl tracking-tighter uppercase text-white">
-            Paul <span className="text-accent-orange">Roofs</span>
-            </div>
+            <img 
+              src="https://i.ibb.co/LDv0vx9b/39316-D9-E-DCC0-4-BCC-8-BB4-A52-FAF0-C2-BCB.png" 
+              alt="Paul Roofs Logo" 
+              className="h-14 w-auto object-contain group-hover:scale-105 transition-transform duration-300"
+            />
         </a>
 
         {/* Desktop Links */}

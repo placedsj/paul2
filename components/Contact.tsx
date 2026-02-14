@@ -12,14 +12,14 @@ export const Contact: React.FC = () => {
 
   return (
     <section id="contact" className="relative h-[800px] flex items-center justify-center md:justify-end overflow-hidden">
-      {/* Background Map */}
+      {/* Background Image */}
       <div className="absolute inset-0">
         <img 
-            src="https://lh3.googleusercontent.com/aida-public/AB6AXuA7MqJH1osIQK2XQdGsc4i2iHmcsEgG6eU91LZq34cRwpea0qZOZcOcx2TXTQeg9kIxHZcuNDf01q9x5ApmAwA1TF_vVukHa-TDmybYEQIuwEpvlkEoVwJnSB1jDLijmj4qJkrhqRikOlE3WgZVO1Vhd8ZjJF5pR_iSlV4NOfJRxglLmdWpS-5yRDMPaMBRRMoCA7IleWvBJRmJ_eDRvFulaeC0imrPHQDPI5HgwhRV3dwXzTt41gVEiZAfEAWCmd2mOIf8LXEkqduN" 
-            alt="Service Area Map" 
+            src="https://i.ibb.co/C3TRXt8p/IMG-1277.png" 
+            alt="Paul Roofs Service Area" 
             className="w-full h-full object-cover"
         />
-        <div className="absolute inset-0 bg-navy-900/10"></div>
+        <div className="absolute inset-0 bg-navy-900/70 backdrop-blur-[2px]"></div>
       </div>
 
       {/* Floating Form Card */}

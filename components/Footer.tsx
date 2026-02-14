@@ -7,8 +7,12 @@ export const Footer: React.FC = () => {
       <div className="container mx-auto px-6">
         <div className="flex flex-col md:flex-row justify-between items-center gap-8">
           <div className="flex flex-col items-center md:items-start">
-             <div className="font-display font-bold text-2xl tracking-tighter uppercase text-white mb-2">
-                Paul <span className="text-accent-orange">Roofs</span>
+             <div className="mb-4">
+               <img 
+                  src="https://i.ibb.co/LDv0vx9b/39316-D9-E-DCC0-4-BCC-8-BB4-A52-FAF0-C2-BCB.png" 
+                  alt="Paul Roofs Logo" 
+                  className="h-16 w-auto object-contain"
+                />
             </div>
             <p className="text-slate-500 text-sm mb-4">© 2024 Paul Roofs. Serving Southern NB.</p>
             <div className="flex flex-col gap-2 text-sm text-slate-400">

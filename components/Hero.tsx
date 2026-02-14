@@ -7,7 +7,7 @@ export const Hero: React.FC = () => {
       {/* Background Image */}
       <div className="absolute inset-0 z-0">
         <img
-          src="https://lh3.googleusercontent.com/aida-public/AB6AXuAt917YFPL8g61_QAIrQwfsDdufxrHbcPTW2I5jbdJxZFnuEaJirxkZ-9pk3PZwTU447mANDiKPoG97po4w23myTUzNcNcGJVDp_MWEIdGlszfSFBccGrEZ1R4SW-tXawIH8A5xPmVi5KIBDhrLgBxb78I4QeIltitof_SwsTz-tpyGX68I0RbxvsmVPugy5ERisAv0GdGH0FhLc_86iak29NpBTHPLXbLMEPmpC5XdrSSamfCyp43AlhqkL5ezMci0wUmyapF2kb89"
+          src="https://i.ibb.co/p6MvKGpJ/4-BFE45-ED-95-D1-4840-8214-549771-B1-CFA6.jpg"
           alt="Paul Roofs Hero"
           className="w-full h-full object-cover"
         />
